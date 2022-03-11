@@ -1,4 +1,4 @@
-##**IPK - Projekt 1**
+# **IPK - Projekt 1**
 
 Autor : Jakub Škunda, FIT VUT, 2022
 Server vytvorený v jazyku C++ komunikujúci prostredníctvom protokolu HTTP.<br/>
@@ -12,7 +12,7 @@ Makefile po zavolaní príkazu make vytvorí súbor hinfosvc<br/>
 Následne môžme spustiť program pomocou príkazu  : ./hinfosvc PORT_NR, kde PORT_NR je číslo portu.<br/>
 Pre ukončenie servera je nutné použiť komináciu Ctrl + c. <br/>
 
-# Príklady
+### Príklady
 
 Príklady boli testované na serveri merlin<br/>
 
