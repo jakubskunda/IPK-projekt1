@@ -1,4 +1,4 @@
-#**IPK - Projekt 1**
+##**IPK - Projekt 1**
 
 Autor : Jakub Škunda, FIT VUT, 2022
 Server vytvorený v jazyku C++ komunikujúci prostredníctvom protokolu HTTP.<br/>
